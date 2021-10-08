@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TrabalhoDupla</string>
+    <string name="btnSalvarAgenda">Salvar</string>
+    <string name="btnVerAgenda">Ver Agenda</string>
+    <string name="btnCadastrarFichas">Cadastrar Fichas</string>
+    <string name="btnVerFicha">Ver Fichas</string>
+    <string name="btnSalvarFicha">Salvar Ficha</string>
+    <string name="btnCadastrarExec1">CADASTRAR EXERCICIOS</string>
+    <string name="btnCadastrarExec2">CADASTRAR EXERCICIOS</string>
+    <string name="FIELD_CADASTRAR_EXERCICIOS">CADASTRAR EXERCICIO</string>
+    <string name="FIELD_DESCRICAO">DESCRICAO</string>
+    <string name="FIELD_SERIE">Serie</string>
+    <string name="FIELD_REPETICAO">Repeticao</string>
+    <string name="btnSalvarExercicios">SALVAR EXERCICIO</string>
+    <string name="btnVerMedidas">Ver Medidas</string>
+    <string name="btnCadastrarMedias">Cadastrar Medidas</string>
+    <string name="btnSalvarMedias">Salvar Medidas</string>
+    <string name="btnAtualizarMedidas">Atualizar Medidas</string>
+</resources>
